@@ -1,0 +1,20 @@
+                        div.navigation {
+                        background-color: greenyellow;
+                        border-radius: 40px;
+                        height: 60px;
+                        width: 1280px;
+                        padding: 25px;
+                        font-size: medium;
+                        font-family: Verdana, Tahoma, ;
+                    }
+                    
+                    div.bodycolor {
+                        background-color: gainsboro;
+                        font-size: large;
+                        border: 4px;
+                        margin: 10px;
+                        div.h3 {
+                            color: black;
+                            font-size: large;
+                            font-family: monospace;
+                        }
